@@ -5,8 +5,8 @@
 ##$ npm install -g typescript(注意一定是全局安装，局部安装本人亲测 > -bash: tsc: command not found)
 ##然后，为变量指定类型。
 
-`// greet.ts
-function greet(person: string) {
+##//greet.ts
+`function greet(person: string) {
   console.log("Hello, " + person);
 }
 
